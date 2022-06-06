@@ -381,8 +381,7 @@ body {
 
   .hero-mobile-img {
     display: block;
-    /* margin-top: 440px;
-        margin-left: -368px; */
+    width: 100%;
   }
 
   .container {
@@ -431,7 +430,6 @@ body {
   .primary-card {
     width: 322px;
     height: 325px;
-    /* margin-top: 50px; */
     flex-wrap: nowrap;
   }
 
@@ -459,6 +457,7 @@ body {
   .card-heading{
     padding: 27px 32px;
   }
+
 }
 
 @media (min-width: 1440px) {
